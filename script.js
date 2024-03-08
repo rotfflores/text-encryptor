@@ -32,6 +32,12 @@ function finalResult() {
 
 //desencript//
 function decrypt(string) {
+    let inputText = document.getElementById("input-text").value;
+
+    if (inputText.length >= 1) {
+        document.getElementById("box-hiden").style.display = "none";
+    }
+    
     string = string.replace(new RegExp(e, 'g'), 'e');
     string = string.replace(new RegExp(i, 'g'), 'i');
     string = string.replace(new RegExp(a, 'g'), 'a');
@@ -65,3 +71,4 @@ function desencript() {
     var result = desencript(text);
     document.getElementById("output-text").value = result;
 }
+

@@ -25,14 +25,14 @@ Text Encryptor es una aplicación web que te permite encriptar y desencriptar te
 
 1. Haz un fork del repositorio.
 2. Clona el repositorio en tu máquina local.
-3. Crea una nueva rama para tus cambios (`git checkout -b feature/nueva-caracteristica`).
-4. Haz tus cambios y haz commit (`git commit -am 'Añade una nueva característica'`).
-5. Sube tus cambios a tu repositorio en GitHub (`git push origin feature/nueva-caracteristica`).
+3. Crea una nueva rama para tus cambios.
+4. Haz tus cambios y haz commit.
+5. Sube tus cambios a tu repositorio en GitHub.
 6. Abre un pull request.
 
 ## Créditos
 
-Este proyecto fue creado por [Tu Nombre](https://github.com/rotfflores).
+Este proyecto fue creado por [Rotfflores](https://github.com/rotfflores).
 
 ## ALURA
 Este repositorio es para el proyecto de alura.

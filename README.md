@@ -1,7 +1,7 @@
 <img src="https://raw.githubusercontent.com/rotfflores/web/main/img/logo.png" alt="logo del proyecto" width="100" />
 <h1>Rotfflores</h1>
-<a>https://rotfflores.github.io/text-encryptor/</a>
 # Text Encryptor
+<h3>Web:</h3> https://rotfflores.github.io/text-encryptor
 
 Text Encryptor es una aplicación web que te permite encriptar y desencriptar texto utilizando claves predefinidas para la sustitución de caracteres.
 
